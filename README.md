@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Aspiring Software Engineer |<br>Computer Science Student |<br>Passionate about Coding & Problem Solving |
 
 
