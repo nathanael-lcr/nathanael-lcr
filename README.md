@@ -1,5 +1,5 @@
 # About Me:
-Aspiring Software Engineer |<br>Computer Science Student |<br>Passionate about Coding & Problem Solving |
+Aspiring Software Engineer | Computer Science Student at Coda_  | Passionate about Coding & Problem Solving |
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nathana%C3%ABl-lecron-0a2852263) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/15823329) 
