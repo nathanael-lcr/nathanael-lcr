@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Coding since 2018.<br>I'm currently learning React-Native<br> Goals: Grow my platform brainbinder.net</p>
+<p align="left">Coding since 2018.<br>I'm currently learning React-Native<br> Goals: Find a company for my work-study placement</p>
 
 ###
 
